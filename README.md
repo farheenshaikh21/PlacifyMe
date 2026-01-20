@@ -33,6 +33,10 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
 
 ## 🗂 Project Structure
 
