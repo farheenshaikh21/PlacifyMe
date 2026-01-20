@@ -38,6 +38,12 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 ### Home Page
 ![Home Page](https://github.com/farheenshaikh21/PlacifyMe/blob/06937fec69dbff7bc31b03dd0ac9c357196828f2/assets/home.png)
 
+### Student SignUp
+![Stu signup Page](https://github.com/farheenshaikh21/PlacifyMe/blob/c4c0e5757eee79d310cdd9dd6fabf118b7717508/assets/stu_signup.png)
+
+### Student Login
+![Stu login Page](https://github.com/farheenshaikh21/PlacifyMe/blob/c4c0e5757eee79d310cdd9dd6fabf118b7717508/assets/stu_login.png)
+
 ## 🗂 Project Structure
 
 ```
