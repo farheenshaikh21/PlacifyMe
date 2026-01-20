@@ -36,7 +36,7 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/farheenshaikh21/PlacifyMe/blob/06937fec69dbff7bc31b03dd0ac9c357196828f2/assets/home.png)
 
 ## 🗂 Project Structure
 
