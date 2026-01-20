@@ -1,8 +1,8 @@
-# Placement Management System
+# PlacifyMe - Placement Management System
 
-A **Python + Tkinter + SQLite based Placement Management System** designed to manage student registrations, company details, and placement selections for a college placement cell.
+A **Python + Tkinter + SQLite based Placement Management System** designed to manage student registrations, company details, and recruitments for a college placement cell.
 
-This project provides separate modules for **Admin**, **Students**, and **Companies**, allowing smooth handling of placement-related data through a graphical user interface.
+This project provides separate modules for **Admin**, **Students**, and **Companies**, allowing smooth handling of placement related data through a graphical user interface.
 
 ---
 
@@ -10,22 +10,21 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 
 ### 👨‍🎓 Student Module
 
-* Student signup and login
 * Student registration with academic details
-* View registered details
-* View upcoming companies
+* View upcoming placements
+* Add desired companies
 
 ### 🏢 Company Module
 
-* Company signup and login
+* Company registration
 * Add and update company details
 * View eligible students
 
 ### 🛠 Admin Module
 
-* Admin login
 * View all students and companies
-* Manage selected students
+* Select eligible students
+* Manage placement data
 
 ### 📊 Database
 
@@ -89,52 +88,33 @@ All tables are created automatically using setup scripts or during runtime.
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Prerequisites
-
-* Python 3.x installed
-* No external libraries required
-
-### 2️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/placement-management-system.git
 cd placement-management-system
 ```
 
-### 3️⃣ Run the Application
+### 2️⃣ Create the database
 
-Start from the common entry file:
+Run the database setup file once:
+
+```bash
+python database/setup_db.py
+```
+
+### 3️⃣ Run the application
 
 ```bash
 python common.py
 ```
 
-> ⚠️ **Note:**
->
-> * Close one window before opening another
-> * Do not run the same file multiple times simultaneously (avoids database lock issues)
-
----
-
-## 🧪 Sample Admin Credentials
+## 🔑 Sample Admin Credentials
 
 > Admin credentials are stored inside the database.
 > Use **DB Browser for SQLite** to view or update them if required.
 
 ---
 
-## 📌 Important Notes
-
-* Database file: `registration_student.db`
-* Ensure this file is in the same directory as the Python files
-* Do not rename database tables or columns
-
----
-
-## 📷 Screenshots
-
-(Add screenshots here if required)
-
----
 
 
