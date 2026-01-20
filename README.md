@@ -40,18 +40,24 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 
 ### Student Module
 ![Stu signup Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_signup.png)
+
 ![Stu registration Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_registration.png)
+
 ![Stu up company Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_up_company.png)
 
 ### Company Module
 ![Company Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/company_signup.png)
+
 ![Com registration](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/company_registration.png)
 
 ### Admin Module
 ![Admin](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/admin.png)
+
 ![Stu selected](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/selected_students.png)
+
 ![Admin view Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/admin_view.png)
 
+---
 ## 🗂 Project Structure
 
 ```
@@ -130,8 +136,8 @@ python common.py
 
 ## 🔑 Sample Admin Credentials
 
-> Admin credentials are stored inside the database.
-> Use **DB Browser for SQLite** to view or update them if required.
+Admin credentials are stored inside the database.
+Use **DB Browser for SQLite** to view or update them if required.
 
 ---
 
