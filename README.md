@@ -33,17 +33,6 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Student Login
-![Student Login](screenshots/stu_login.png)
-
-### Admin Dashboard
-![Admin Login](screenshots/admin_login.png)
-
 
 ## 🗂 Project Structure
 
