@@ -36,13 +36,21 @@ This project provides separate modules for **Admin**, **Students**, and **Compan
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://github.com/farheenshaikh21/PlacifyMe/blob/06937fec69dbff7bc31b03dd0ac9c357196828f2/assets/home.png)
+![Home Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/home.png)
 
-### Student SignUp
-![Stu signup Page](https://github.com/farheenshaikh21/PlacifyMe/blob/c4c0e5757eee79d310cdd9dd6fabf118b7717508/assets/stu_signup.png)
+### Student Module
+![Stu signup Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_signup.png)
+![Stu registration Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_registration.png)
+![Stu up company Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/student_up_company.png)
 
-### Student Login
-![Stu login Page](https://github.com/farheenshaikh21/PlacifyMe/blob/c4c0e5757eee79d310cdd9dd6fabf118b7717508/assets/stu_login.png)
+### Company Module
+![Company Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/company_signup.png)
+![Com registration](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/company_registration.png)
+
+### Admin Module
+![Admin](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/admin.png)
+![Stu selected](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/selected_students.png)
+![Admin view Page](https://github.com/farheenshaikh21/PlacifyMe/blob/85352e6905a2784769f78ce8809745db4e1c9b28/assets/admin_view.png)
 
 ## 🗂 Project Structure
 
